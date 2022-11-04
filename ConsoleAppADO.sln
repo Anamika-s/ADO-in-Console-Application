@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppADO", "ConsoleAppADO\ConsoleAppADO.csproj", "{92EC504B-85A7-4F4D-A483-BFE216417AB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92EC504B-85A7-4F4D-A483-BFE216417AB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92EC504B-85A7-4F4D-A483-BFE216417AB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92EC504B-85A7-4F4D-A483-BFE216417AB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92EC504B-85A7-4F4D-A483-BFE216417AB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2E2341F-AF41-4C7D-8134-EFC331567CD0}
+	EndGlobalSection
+EndGlobal
